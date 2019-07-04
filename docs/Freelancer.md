@@ -1,3 +1,4 @@
+
 # Freelancer
 
 ## Properties
@@ -8,3 +9,6 @@ Name | Type | Description | Notes
 **lastName** | **String** |  |  [optional]
 **emailAddress** | **String** |  |  [optional]
 **skills** | [**List&lt;Skill&gt;**](Skill.md) |  |  [optional]
+
+
+

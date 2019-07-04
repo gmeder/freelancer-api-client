@@ -7,6 +7,7 @@ Method | HTTP request | Description
 [**getFreelancers**](FreelancerApi.md#getFreelancers) | **GET** /freelancers | 
 [**getFreelancersById**](FreelancerApi.md#getFreelancersById) | **GET** /freelancers/{freelancerId} | 
 
+
 <a name="getFreelancers"></a>
 # **getFreelancers**
 > List&lt;Freelancer&gt; getFreelancers()
@@ -44,7 +45,7 @@ No authorization required
 ### HTTP request headers
 
  - **Content-Type**: Not defined
- - **Accept**: */*
+ - **Accept**: Not defined
 
 <a name="getFreelancersById"></a>
 # **getFreelancersById**
@@ -87,5 +88,5 @@ No authorization required
 ### HTTP request headers
 
  - **Content-Type**: Not defined
- - **Accept**: */*
+ - **Accept**: Not defined
 
